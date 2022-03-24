@@ -1,9 +1,9 @@
-#TextPlay 
+# TextPlay 
 
 It is a text analyzer and editor developed using ReactJS and Bootstrap.
 
 
-#Functions
+# Functions
 
 -Word count
 
@@ -18,7 +18,7 @@ It is a text analyzer and editor developed using ReactJS and Bootstrap.
 -Exatra spaces removal
 
 
-#To run this project on your pc/mobile:
+# To run this project on your pc/mobile:
 
 -Download the zip file for the code
 
