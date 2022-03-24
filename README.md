@@ -26,7 +26,7 @@ It is a text analyzer and editor developed using ReactJS and Bootstrap.
 
 -Run "npm i" on the terminal (this will download all the node packages required to run this react app successfully)
 
--Now, run "npm start run"
+-Now, run "npm run start"
 
 -And the react app will start functioning on your browser!
 
