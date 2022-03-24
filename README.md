@@ -30,4 +30,5 @@ It is a text analyzer and editor developed using ReactJS and Bootstrap.
 
 -And the react app will start functioning on your browser!
 
+![image](https://user-images.githubusercontent.com/61621645/159871116-47079964-1792-4d8a-930f-a40cbd213c74.png)
 
